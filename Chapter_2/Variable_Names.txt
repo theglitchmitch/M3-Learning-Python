@@ -1,0 +1,27 @@
+Variables are legal if:
+
+1. A variable name can contain only numbers, letters, and underscores.
+2. A variable name can’t start with a number.
+
+The following are guidelines for legal variable names:
+
+- Choose descriptive names
+- Be consistent
+- Follow the traditions of the language
+- Keep the length in check
+
+Illegal names:
+
+- 1test
+- test!@
+
+Legal bad names:
+
+- alpha7345690876
+- thisisprobablynotaverygoodvariablenamebutyoucanseewhereimgoing
+
+Legal good names:
+
+- name
+- age
+- weight
