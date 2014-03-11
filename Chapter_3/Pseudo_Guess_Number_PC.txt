@@ -1,0 +1,22 @@
+welcome player and explain
+start
+if player does not type correct then(while loop)
+	if player types higher
+		set guess number as lowest number
+		generate new number
+		show new number
+		ask player higher lower or correct
+		try +1
+
+	elif player types lower
+		set guess number as highest number
+		generate new number
+		show new number
+		ask player higher lower or correct
+		try+1
+
+	else
+		print error
+
+if player types correct
+	tell player you guessed it and how many tries
