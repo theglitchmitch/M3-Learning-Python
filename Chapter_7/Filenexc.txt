@@ -1,0 +1,33 @@
+A test of knowledge on Python files and exceptions.
+Access modes
+What happens when you use the mode 'w' when you open a file and the file doesn't exist?
+Python will complain with an error
+The file is created
+The file is created and content is overwritten
+None of the above
+2
+The file will be created and nothing will be overwritten if it doesn't exist
+Pickling
+In what kind of file is a pickled object stored?
+Binary file
+Text file
+A jar
+None of the above
+1
+Pickled objects are stored in a Binary file
+Errors
+Which error is raised when a sequence is indexed with a number of a nonexistent element?
+Sequence Error
+Index Error
+Value Error
+Type Error
+2
+Index error is the correct answer
+Trapping exceptions
+What clause do you often use after a 'try' statement?
+Else
+If
+As
+Except
+4
+This is the most basic way to trap an exception
